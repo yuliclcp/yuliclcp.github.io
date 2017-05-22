@@ -1,0 +1,16 @@
+body{
+    background: pink;
+}
+#header{
+    height: 30%;
+    width: 100%
+}
+#logo{
+    height: 30%;
+    width: 30%;
+}
+#content{
+    height: 40%;
+    width: 40%;
+        
+}

@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite
+    }
+#header{
+    background: grey;
+    height: 30%;
+    width: 100%;
+    padding: 5px;
+
+}
+#logo{
+    height: 100%;
+    width: 30%;
+}
+#menu ul li{
+    padding: 15px;
+    list-style-type: none;
+    float: left;
+    overflow: hidden;
+    }
+#clear{
+    clear: both;
+}
+#body{
+    height: 90%;
+    width: 100%;
+    padding: 10px;
+}
+#content{
+    height: 40%;
+    width: 40%;
+}
+
+#fashion #picture{
+    float: left;
+    height: 40%;
+    width: 30%;
+}

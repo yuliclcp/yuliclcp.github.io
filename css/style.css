@@ -1,0 +1,12 @@
+#wrap #body{
+    background:pink;
+}
+#wrap #header{
+    height: 30%;
+    width: 100%;
+    margin: 10px;
+    padding: 5px
+}#wrap #logo{
+    height: auto;
+    width: 30%;
+}
