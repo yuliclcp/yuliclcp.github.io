@@ -1,38 +1,40 @@
 body{
-    background-color: antiquewhite
+    background-color: antiquewhite;
     }
 #header{
-    background: grey;
+    background: aqua;
     height: 30%;
     width: 100%;
-    padding: 5px;
-
+    
 }
+#title{
+    height: 40%;
+    width: 100%;
+    float: right;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    background-color: aqua;
+    font-weight: bold;
+    
+}
+
 #logo{
     height: 100%;
-    width: 30%;
+    width: 40%;
 }
 #menu ul li{
     padding: 15px;
-    list-style-type: none;
+    list-style: none;
     float: left;
     overflow: hidden;
-    }
+}
 #clear{
     clear: both;
 }
 #body{
-    height: 90%;
+    height: 70%;
     width: 100%;
-    padding: 10px;
-}
-#content{
-    height: 40%;
-    width: 40%;
-}
-
-#fashion #picture{
-    float: left;
-    height: 40%;
-    width: 30%;
+    background: pink;
+        
 }
